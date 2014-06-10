@@ -1,0 +1,13 @@
+{
+  "name": "scraperwiki-hack",
+  "description": "BBC News Labs",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "request": "*",
+    "q": "*",
+    "moment": "*",
+    "csvtojson": "*",
+    "newsquery": "*"
+  }
+}
